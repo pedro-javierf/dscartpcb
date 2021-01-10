@@ -1,4 +1,4 @@
-update=07/01/2021 0:48:54
+update=10/01/2021 23:32:39
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ndsbreakoutboard_bueno.net
+LastNetListRead=ndsbreakoutboardFINAL.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -237,7 +237,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.1999
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4

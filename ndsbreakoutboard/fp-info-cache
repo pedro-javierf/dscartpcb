@@ -1,4 +1,4 @@
-16939506344942454
+16942726892538535
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6083,6 +6083,13 @@ capacitor tantalum
 2
 2
 Connector
+3dsIcon
+
+
+0
+0
+0
+Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
 banana socket
@@ -6208,6 +6215,13 @@ tag connect programming header pogo pins
 0
 14
 14
+Connector
+ndsIcon
+
+
+0
+0
+0
 Connector
 nds_contact_pads
 A footprint for the bottom pads of the NDS cartridge
