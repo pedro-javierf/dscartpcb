@@ -219,4 +219,30 @@ Wire Wire Line
 Wire Wire Line
 	4950 2200 4950 2650
 Connection ~ 6550 1700
+$Comp
+L Connector:Conn_01x01_Female J14
+U 1 1 5FFBA68A
+P 5150 1250
+F 0 "J14" V 5088 1162 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 4997 1162 50  0000 R CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 5150 1250 50  0001 C CNN
+F 3 "~" H 5150 1250 50  0001 C CNN
+	1    5150 1250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5150 1450 5150 2650
+$Comp
+L Connector:Conn_01x01_Female J15
+U 1 1 5FFBCD3D
+P 5650 2000
+F 0 "J15" V 5588 1912 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 5497 1912 50  0000 R CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 5650 2000 50  0001 C CNN
+F 3 "~" H 5650 2000 50  0001 C CNN
+	1    5650 2000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5650 2200 5650 2650
 $EndSCHEMATC

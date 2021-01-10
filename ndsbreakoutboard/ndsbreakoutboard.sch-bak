@@ -206,4 +206,30 @@ Wire Wire Line
 	5250 1700 5250 2650
 Wire Wire Line
 	5050 1700 5050 2650
+Wire Wire Line
+	6550 1700 6750 1700
+Wire Wire Line
+	6750 1700 6750 3300
+Wire Wire Line
+	6750 3300 4700 3300
+Wire Wire Line
+	4700 3300 4700 2200
+Wire Wire Line
+	4700 2200 4950 2200
+Wire Wire Line
+	4950 2200 4950 2650
+Connection ~ 6550 1700
+$Comp
+L Connector:Conn_01x01_Female J14
+U 1 1 5FFBA68A
+P 5150 1250
+F 0 "J14" V 5088 1162 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 4997 1162 50  0000 R CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 5150 1250 50  0001 C CNN
+F 3 "~" H 5150 1250 50  0001 C CNN
+	1    5150 1250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5150 1450 5150 2650
 $EndSCHEMATC
