@@ -3,6 +3,8 @@
 
 ## Designed with KiCad
 ![](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg)
+![board render 1](https://raw.githubusercontent.com/pedro-javierf/dscartpcb/main/render.png)
+![board render 2](https://raw.githubusercontent.com/pedro-javierf/dscartpcb/main/render2.png)
 
 ## v1.0 units
 
